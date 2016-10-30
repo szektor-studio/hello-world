@@ -3,4 +3,4 @@
 echo 'Hi ALL';
 
 
-die('die die die :P');
+die('die die die die :P');
